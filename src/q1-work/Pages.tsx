@@ -4,7 +4,7 @@ import Error404 from './pages/Error404';
 import Contacts from './pages/Contacts/Contacts';
 import AboutMe from "./pages/AboutMe/AboutMe";
 import Profile from "./pages/Profile";
-import Password_recovery from "./pages/Skills/Skills";
+import Skills from "./pages/Skills/Skills";
 import Home from "./pages/Header/Home/Home";
 import TestElement from "./pages/TestElement";
 import {BorderTest} from "./pages/Component_for_Test/BorderTest";
@@ -28,7 +28,7 @@ function Pages() {
                 <Route path={PATH.HOME} element={<Home/>}/>
                 <Route path={PATH.ABOUT_ME} element={<AboutMe/>}/>
                 <Route path={PATH.PROFILE} element={<Profile/>}/>
-                <Route path={PATH.SKILLS} element={<Password_recovery/>}/>
+                <Route path={PATH.SKILLS} element={<Skills/>}/>
                 <Route path={PATH.CONTACTS} element={<Contacts/>}/>
                 <Route path={'/*'} element={<Error404/>}/>
             </Routes>

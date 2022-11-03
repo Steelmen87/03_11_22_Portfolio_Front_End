@@ -5,7 +5,7 @@ import style from '../style.module.css'
 
 function HeaderMobile() {
     return (
-        <div>
+        <div className={style.con}>
             <input type="checkbox" id="hmt" className={style["hidden-menu-ticker"]}/>
             <label className={style["btn-menu"]} htmlFor="hmt">
                 <span className={style.first}/>

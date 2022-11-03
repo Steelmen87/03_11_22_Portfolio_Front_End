@@ -1,6 +1,10 @@
 .all{
+    margin: 5px auto;
+    padding-top: 5px;
     display: flex;
+    flex-wrap: wrap-reverse;
     justify-content: space-between;
+    max-width: 940px;
 }
 .home {
     display: flex;
@@ -32,4 +36,10 @@
 }
 .photo{
     padding: 10px;
+    max-width: 502px;
+}
+@media (max-width: 900px) {
+    .all {
+        justify-content: center;
+    }
 }

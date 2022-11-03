@@ -31,8 +31,9 @@ function AboutMe() {
                     <img src={cv} alt={'cv'} width={'200px'}/>
                 </a>
             </div>
-            <img src={img} alt={'photo'}/>
-
+            <div>
+                <img src={img} alt={'photo'} className={s.photo}/>
+            </div>
         </div>
     )
 }

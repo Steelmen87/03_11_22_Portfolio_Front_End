@@ -19,7 +19,7 @@ import s from './Skills.module.css'
 
 function Skills() {
     return (
-        <div>
+        <div className={s.container}>
             <div>
                 <Title title={'Skills'}/>
             </div>

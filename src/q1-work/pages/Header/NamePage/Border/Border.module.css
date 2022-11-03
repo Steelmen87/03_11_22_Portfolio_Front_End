@@ -1,5 +1,6 @@
 .decor{
-    padding: 10px;
+    margin:0 auto;
+    /*padding: 10px;*/
     max-width: 940px;
     border-bottom: 1px solid #828282;
 }
