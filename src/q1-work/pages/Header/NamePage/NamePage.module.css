@@ -1,0 +1,13 @@
+.decor {
+    font-size: 18px;
+    line-height: 22px;
+    font-family: 'Gilroy-Bold';
+ /*   border: 1px solid;*/
+    margin: 0 105px 0 0;
+    min-width: 80px;
+    /* Black */
+    box-sizing: border-box;
+    color: #828282;
+
+
+}
