@@ -1,0 +1,51 @@
+.App {
+    display: flex;
+    justify-content: center;
+    max-width: 940px;
+}
+
+body {
+
+}
+
+form {
+    /* position: absolute;
+     top: 160px;
+     left: 42%;*/
+    background-color: #828282;
+    padding: 1em;
+    border-radius: 10px;
+    margin: 10px 0;
+
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+input,
+textarea {
+    min-width: 250px;
+    box-sizing: border-box;
+    padding: 0.5em;
+    outline: none;
+    background-color: #292929;
+    border: 2px solid transparent;
+    border-radius: 5px;
+}
+
+input:focus,
+textarea:focus {
+    border: 2px solid brown;
+    color: #c5cdd3;
+}
+
+textarea {
+    min-height: 250px;
+    resize: vertical;
+}
+
+.submit {
+    color: #c5cdd3;
+}

@@ -1,0 +1,35 @@
+.all{
+    display: flex;
+    justify-content: space-between;
+}
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.myName {
+    font-family: 'Gilroy-Bold';
+    font-size: 48px;
+    line-height: 59px;
+    padding-bottom: 0;
+    font-weight: bold;
+    /* Black */
+
+    color: #070707;
+}
+
+.myProfession {
+    font-family: 'Gilroy-Medium';
+    font-size: 18px;
+    line-height: 59px;
+    padding-bottom: 0;
+    font-weight: bold;
+    /* Black */
+
+    color: #070707;
+}
+.photo{
+    padding: 10px;
+}

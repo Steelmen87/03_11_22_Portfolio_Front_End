@@ -1,0 +1,7 @@
+.decor{
+    display: flex;
+
+    padding: 10px;
+    max-width: 940px;
+    border-bottom: 2px solid #828282;
+}

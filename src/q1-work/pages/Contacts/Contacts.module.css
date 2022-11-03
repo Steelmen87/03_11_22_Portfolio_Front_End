@@ -1,0 +1,50 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.welcome {
+    margin: 20px 0;
+    font-family: 'Gilroy-Medium';
+    font-size: 18px;
+    line-height: 22px;
+    max-width: 260px;
+    text-align: center;
+
+}
+
+.button {
+    margin: 50px;
+    width: 180px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #000000;
+}
+.button:hover{
+    cursor: pointer;
+}
+
+.text_button {
+    margin: 10px auto;
+    font-family: 'Gilroy-Bold';
+    font-size: 18px;
+    line-height: 22px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.group_icon {
+    max-width: 700px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.like{
+    font-family: 'Gilroy-Medium';
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+}
