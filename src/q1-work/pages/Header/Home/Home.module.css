@@ -1,4 +1,4 @@
-.all{
+.all {
     margin: 5px auto;
     padding-top: 5px;
     display: flex;
@@ -6,6 +6,7 @@
     justify-content: space-between;
     max-width: 940px;
 }
+
 .home {
     display: flex;
     flex-direction: column;
@@ -34,12 +35,19 @@
 
     color: #070707;
 }
-.photo{
+
+.photo {
     padding: 10px;
     max-width: 502px;
+    width: 100%;
 }
+
 @media (max-width: 900px) {
     .all {
         justify-content: center;
+    }
+
+    .photo {
+        padding: 0;
     }
 }
