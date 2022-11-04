@@ -1,4 +1,4 @@
-body {
+/*body {
     min-height: 95vh;
     display: flex;
     justify-content: center;
@@ -6,9 +6,9 @@ body {
     background-color: rgb(54, 53, 53);
     color: #c5cdd3;
     font-family: sans-serif;
-}
+}*/
 form {
-    background-color: rgb(26, 24, 24);
+    background-color: rgb(255, 255, 255);
     padding: 1em;
     border-radius: 10px;
 }
@@ -19,7 +19,7 @@ textarea {
     box-sizing: border-box;
     padding: 0.5em;
     outline: none;
-    background-color: #222d35;
+    background-color: #b1b0b0;
     border: 2px solid transparent;
     border-radius: 5px;
 }
