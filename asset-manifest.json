@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/03_11_22_Portfolio_Front_End/static/css/main.007820cd.css",
+    "main.js": "/03_11_22_Portfolio_Front_End/static/js/main.fca67d08.js",
+    "static/media/Petrov_Konstantin.pdf": "/03_11_22_Portfolio_Front_End/static/media/Petrov_Konstantin.880e15396e0e40ee396b.pdf",
+    "static/media/photo_500.png": "/03_11_22_Portfolio_Front_End/static/media/photo_500.2b3bc75b62e272993877.png",
+    "static/media/aboutMe.png": "/03_11_22_Portfolio_Front_End/static/media/aboutMe.631c5d7f9aa23d68178d.png",
+    "static/media/MiniCV.png": "/03_11_22_Portfolio_Front_End/static/media/MiniCV.0a7948f523c11660e520.png",
+    "static/media/soft-skills.png": "/03_11_22_Portfolio_Front_End/static/media/soft-skills.8996438b75c835296a00.png",
+    "static/media/unit.png": "/03_11_22_Portfolio_Front_End/static/media/unit.351e4c516bf99dcfc63a.png",
+    "static/media/postman_alt_macos_bigsur_icon_189814.png": "/03_11_22_Portfolio_Front_End/static/media/postman_alt_macos_bigsur_icon_189814.e4d8fd89e953904151f5.png",
+    "static/media/download.png": "/03_11_22_Portfolio_Front_End/static/media/download.461860bce6a311016a10.png",
+    "static/media/sass_original_logo_icon_146350.png": "/03_11_22_Portfolio_Front_End/static/media/sass_original_logo_icon_146350.36dbfc3a855daa6dde4f.png",
+    "static/media/redux_original_logo_icon.png": "/03_11_22_Portfolio_Front_End/static/media/redux_original_logo_icon.45e6cfea4a0ecbe9d229.png",
+    "static/media/axios_logo_icon_168546.png": "/03_11_22_Portfolio_Front_End/static/media/axios_logo_icon_168546.9ea354dc3ea219518e8a.png",
+    "static/media/free-icon-html-5.png": "/03_11_22_Portfolio_Front_End/static/media/free-icon-html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/free-icon-css.png": "/03_11_22_Portfolio_Front_End/static/media/free-icon-css.d2811e5969760ef58072.png",
+    "static/media/react_icon.png": "/03_11_22_Portfolio_Front_End/static/media/react_icon.f268964f328ad9db0a9c.png",
+    "index.html": "/03_11_22_Portfolio_Front_End/index.html",
+    "main.007820cd.css.map": "/03_11_22_Portfolio_Front_End/static/css/main.007820cd.css.map",
+    "main.fca67d08.js.map": "/03_11_22_Portfolio_Front_End/static/js/main.fca67d08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.007820cd.css",
+    "static/js/main.fca67d08.js"
+  ]
+}
